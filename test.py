@@ -10,3 +10,6 @@ for i in range(5):
 
 add = 2 + 2
 print(add)
+
+subtract = 14 - 7
+print(subtract)
